@@ -1,4 +1,4 @@
-# gsl_task
+# MVVM_GetX Example
 
 
 This project is built using Flutter with GetX for state management and follows the MVVM (Model-View-ViewModel) architecture pattern to ensure clean and maintainable code.
